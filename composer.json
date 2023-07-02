@@ -1,6 +1,7 @@
 {
     "name": "open_ai/OpenAiIntegration",
     "description": "Description of your extension",
+    "type": "yii2-extension",
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
