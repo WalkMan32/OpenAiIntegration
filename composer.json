@@ -2,6 +2,10 @@
     "name": "open_ai/OpenAiIntegration",
     "description": "Description of your extension",
     "type": "yii2-extension",
+    "version": "0.1",
+    "require": {
+        "php": ">=7.1.0"
+    },
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
